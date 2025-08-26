@@ -37,10 +37,6 @@
 <br>
 
 
-Para separar un poco las imágenes de los lenguajes y herramientas en tu README, puedes añadir un espacio entre ellas usando márgenes o padding en el estilo de las imágenes. Aquí tienes cómo podrías modificar tu sección de "Lenguajes y Herramientas" para lograr esto:
-
-markdown
-Copiar código
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
